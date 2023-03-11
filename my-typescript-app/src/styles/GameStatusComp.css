@@ -1,0 +1,12 @@
+.text{
+    font-size: 22px;
+}
+.blackWin{
+    color: black;
+}
+.redWin{
+    color: red;
+}
+.draw{
+    color: gray;
+}

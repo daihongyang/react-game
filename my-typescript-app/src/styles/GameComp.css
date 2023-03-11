@@ -1,0 +1,19 @@
+.game{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20vh auto;
+}
+.button{
+    display: block;
+    width: 100px;
+    height: 40px;
+    background-color: lightblue;
+    color: #333;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
